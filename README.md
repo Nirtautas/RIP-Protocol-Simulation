@@ -5,5 +5,5 @@ It is a simulation of the RIP routing protocol.
 This simulation allows the user to add and shutdown/delete routers, connect and disconnect them.
 All these actions update the routing tables of the routers. These tables can be seen in the console.
 # What do I need to run it?
-The user only needs to alter the simulation parameters in main.cs. No extra modules required.
+The user only needs to alter the simulation parameters in Program.cs. No extra modules required.
 Opening the project in visual studio and running it will work just fine.
