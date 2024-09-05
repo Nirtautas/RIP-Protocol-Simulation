@@ -1,0 +1,56 @@
+C:\Users\nirta\Desktop\RIP KT3\bin\Debug\net6.0\RIP_KT3.exe
+C:\Users\nirta\Desktop\RIP KT3\bin\Debug\net6.0\RIP_KT3.deps.json
+C:\Users\nirta\Desktop\RIP KT3\bin\Debug\net6.0\RIP_KT3.runtimeconfig.json
+C:\Users\nirta\Desktop\RIP KT3\bin\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3\bin\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.AssemblyInfoInputs.cache
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.AssemblyInfo.cs
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.csproj.CoreCompileInputs.cache
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\refint\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\RIP_KT3.genruntimeconfig.cache
+C:\Users\nirta\Desktop\RIP KT3\obj\Debug\net6.0\ref\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.AssemblyInfoInputs.cache
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.AssemblyInfo.cs
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.csproj.CoreCompileInputs.cache
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\refint\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Desktop\RIP KT3 New\bin\Debug\net6.0\RIP_KT3.exe
+C:\Users\nirta\Desktop\RIP KT3 New\bin\Debug\net6.0\RIP_KT3.deps.json
+C:\Users\nirta\Desktop\RIP KT3 New\bin\Debug\net6.0\RIP_KT3.runtimeconfig.json
+C:\Users\nirta\Desktop\RIP KT3 New\bin\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 New\bin\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\RIP_KT3.genruntimeconfig.cache
+C:\Users\nirta\Desktop\RIP KT3 New\obj\Debug\net6.0\ref\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.exe
+C:\Users\nirta\Desktop\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.deps.json
+C:\Users\nirta\Desktop\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.runtimeconfig.json
+C:\Users\nirta\Desktop\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.AssemblyInfoInputs.cache
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.AssemblyInfo.cs
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.csproj.CoreCompileInputs.cache
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\refint\RIP_KT3.dll
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.genruntimeconfig.cache
+C:\Users\nirta\Desktop\RIP KT3 REAL\obj\Debug\net6.0\ref\RIP_KT3.dll
+C:\Users\nirta\Downloads\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.exe
+C:\Users\nirta\Downloads\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.deps.json
+C:\Users\nirta\Downloads\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.runtimeconfig.json
+C:\Users\nirta\Downloads\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Downloads\RIP KT3 REAL\bin\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.AssemblyInfoInputs.cache
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.AssemblyInfo.cs
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.csproj.CoreCompileInputs.cache
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.dll
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\refint\RIP_KT3.dll
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.pdb
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\RIP_KT3.genruntimeconfig.cache
+C:\Users\nirta\Downloads\RIP KT3 REAL\obj\Debug\net6.0\ref\RIP_KT3.dll
